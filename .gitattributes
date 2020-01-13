@@ -1,0 +1,2 @@
+.bi filter=lfs diff=lfs merge=lfs -text
+*.bi filter=lfs diff=lfs merge=lfs -text
